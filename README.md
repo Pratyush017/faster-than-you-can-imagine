@@ -10,7 +10,7 @@ You can also set the limit like 500 times or 1000 times or more, it will spam th
 
 How it works:- 
 its for windows and VSC required with all neccesaary extensions (python, pylance) 
-make sure you have installed pyautogui through command promt ( write "pip install pyautogui" in cmnd promd and enter ) also open the cmnd promt through run as adminstrator.
+make sure you have installed pyautogui through command promt ( write "pip install pyautogui" in cmnd promt and enter ) also open the cmnd promt through run as adminstrator.
 make a .py file or clone mine and run it
 after runing the code you will get 10 second time just go to the location where u want to spam in that time and click where u wanna type and sent your content and you are done it will start spamming with the speed you've never seen before.
 
