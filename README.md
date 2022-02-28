@@ -1,4 +1,4 @@
-# faster than bot spamming
+# GODLIKE SPEED
 
 Information:-
 Spamming Speed 250 words/sentences per min or 4 words/sentences per second 
